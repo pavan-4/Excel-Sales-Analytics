@@ -8,7 +8,7 @@ The analysis covers **Customer Performance**, **Market Performance vs Targets**,
 
 ## **📈 Sales Report**
 **Project Objectives**
-1. Create a ([Customer Performance report.pdf](https://github.com/pavan-4/Excel-Sales-Analytics/blob/2c5a68179c03367b1e1ebc1a2d4a7d92517b42bf/P%20%26%20L%20Statement%20by%20Markets.pdf))  
+1. Create a [Customer Performance report.pdf](https://github.com/pavan-4/Excel-Sales-Analytics/blob/2c5a68179c03367b1e1ebc1a2d4a7d92517b42bf/P%20%26%20L%20Statement%20by%20Markets.pdf)
 2. Conduct a comparison between [Market Performance and Sales Targets](https://github.com/pavan-4/Excel-Sales-Analytics/blob/06e256336934d30ad0fc44c8b3ba2981264f9d48/Market%20Performance%20vs%20Target.pdf)
 
 **Purpose of Sales Analytics**
@@ -27,9 +27,8 @@ The analysis covers **Customer Performance**, **Market Performance vs Targets**,
 
 ## **💰 Finance Report**
 **Project Objectives**
-1. Create Profit and Loss (P&L) reports by [Fiscal Year](P & L By Fiscal Year.pdf) & [Months](P & L Statement by Momths.pdf)  
-2. Create P&L reports by [Markets](P & L Statement by Markets.pdf)
-
+1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/pavan-4/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Year.pdf) & [Months](https://github.com/pavan-4/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Momths.pdf)
+2. Create P&L reports by [Markets](https://github.com/pavan-4/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)
 **Purpose of Finance Analytics**
 - Evaluate financial performance.
 - Support decision-making.
