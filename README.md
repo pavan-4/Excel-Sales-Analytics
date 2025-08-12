@@ -8,7 +8,7 @@ The analysis covers **Customer Performance**, **Market Performance vs Targets**,
 
 ## **📈 Sales Report**
 **Project Objectives**
-1. Create a [Customer Performance Report](Customer_Performance_Report.pdf)  
+1. Create a [Customer Performance Report](Customer_Performance_report.pdf)  
 2. Conduct a comparison between [Market Performance and Sales Targets](Market_Performance_vs_Target.pdf)  
 
 **Purpose of Sales Analytics**
