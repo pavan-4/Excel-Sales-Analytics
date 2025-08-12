@@ -8,8 +8,8 @@ The analysis covers **Customer Performance**, **Market Performance vs Targets**,
 
 ## **📈 Sales Report**
 **Project Objectives**
-1. Create a [Customer Performance Report](Customer_Performance_report.pdf)  
-2. Conduct a comparison between [Market Performance and Sales Targets](Market_Performance_vs_Target.pdf)  
+1. Create a [Customer Performance Report](Customer Performance report.pdf)  
+2. Conduct a comparison between [Market Performance and Sales Targets](Market Performance vs Target.pdf)  
 
 **Purpose of Sales Analytics**
 - Monitor and evaluate sales activities and performance.
@@ -27,8 +27,8 @@ The analysis covers **Customer Performance**, **Market Performance vs Targets**,
 
 ## **💰 Finance Report**
 **Project Objectives**
-1. Create Profit and Loss (P&L) reports by [Fiscal Year](P&L_By_Fiscal_Year.pdf) & [Months](P&L_Statement_by_Months.pdf)  
-2. Create P&L reports by [Markets](P&L_Statement_by_Markets.pdf)
+1. Create Profit and Loss (P&L) reports by [Fiscal Year](P & L By Fiscal Year.pdf) & [Months](P & L Statement by Momths.pdf)  
+2. Create P&L reports by [Markets](P & L Statement by Markets.pdf)
 
 **Purpose of Finance Analytics**
 - Evaluate financial performance.
