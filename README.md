@@ -8,7 +8,7 @@ The analysis covers **Customer Performance**, **Market Performance vs Targets**,
 
 ## **📈 Sales Report**
 **Project Objectives**
-1. Create a [Customer Performance Report](Customer Performance report.pdf)  
+1. Create a [Customer Performance Report]([Customer Performance report.pdf](https://github.com/pavan-4/Excel-Sales-Analytics/blob/2c5a68179c03367b1e1ebc1a2d4a7d92517b42bf/P%20%26%20L%20Statement%20by%20Markets.pdf))  
 2. Conduct a comparison between [Market Performance and Sales Targets](Market Performance vs Target.pdf)  
 
 **Purpose of Sales Analytics**
