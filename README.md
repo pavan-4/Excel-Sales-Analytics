@@ -61,6 +61,3 @@ The analysis covers **Customer Performance**, **Market Performance vs Targets**,
 - Optimizing report generation through fine-tuning.
 - Developing structured approaches to report building.
 
----
-
-## **📂 Repository Structure**
